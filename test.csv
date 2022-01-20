@@ -21,5 +21,5 @@
 "20","21.933584","127.0.0.1","127.0.0.1","DNS","92","Standard query 0x2585 AAAA 1.debian.pool.ntp.org.mshome.net"
 "21","25.039996","192.168.137.195","192.168.137.195","ICMP","120","Destination unreachable (Host unreachable)"
 "22","25.040043","192.168.137.195","192.168.137.195","ICMP","120","Destination unreachable (Host unreachable)"
-"23","26.940576","127.0.0.1","127.0.0.1","DNS","81","Standard query 0x86fb A 2.debian.pool.ntp.org"
+"23","26.940576","127.0.0.1","127.0.0.1","DNS","81","Standard query 0x86fb ""A"" 2.debian.pool.ntp.org"
 "24","26.940664","127.0.0.1","127.0.0.1","DNS","81","Standard query 0x639e AAAA 2.debian.pool.ntp.org"
